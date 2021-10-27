@@ -1,2 +1,2 @@
 # MVC-Basico
-Ejemplo del patron MVC
+Ejemplos de uso del patron MVC
